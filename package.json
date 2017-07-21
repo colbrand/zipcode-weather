@@ -1,0 +1,14 @@
+{
+    "name": "temperatur-by-zip",
+    "author": "Erdem Bircan",
+    "private": true,
+    "dependencies": {
+        "express": "4.15.3",
+        "zippity-do-dah": "0.0.3",
+        "ejs": "2.5.6",
+        "xmlhttprequest": "1.8.0"
+    },
+    "scripts": {
+        "start": "nodemon app.js"
+    }
+}
